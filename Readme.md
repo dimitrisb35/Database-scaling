@@ -1592,25 +1592,4 @@ By understanding these concepts and applying them thoughtfully, you can build da
 - [MongoDB Sharding](https://docs.mongodb.com/manual/sharding/)
 - [Cassandra Architecture](https://cassandra.apache.org/doc/latest/architecture/)
 
-### Tools
-- **Patroni**: PostgreSQL HA solution
-- **ProxySQL**: MySQL load balancer and query router
-- **PgBouncer**: PostgreSQL connection pooler
-- **Vitess**: MySQL sharding middleware
-- **Flyway**: Database migration tool
-- **Liquibase**: Database version control
 
-### Books
-- "Designing Data-Intensive Applications" by Martin Kleppmann
-- "Database Reliability Engineering" by Laine Campbell & Charity Majors
-- "The Art of PostgreSQL" by Dimitri Fontaine
-
-### Monitoring
-- **Prometheus + Grafana**: Metrics and visualization
-- **Datadog**: Full-stack observability
-- **pganalyze**: PostgreSQL performance monitoring
-- **Percona Monitoring**: MySQL and MongoDB monitoring
-
----
-
-*Questions or suggestions? Open an issue or contribute to improve this guide!*
