@@ -749,9 +749,9 @@ Hybrid deployments combine on-premises and cloud infrastructure for flexibility,
 ┌─────────────────────────────────────────┐
 │           Cloud (Primary)               │
 │                                         │
-│  ┌─────────────────────────────────┐   │
-│  │   Primary Database              │   │
-│  └──────────────┬──────────────────┘   │
+│  ┌─────────────────────────────────┐    │
+│  │   Primary Database              │    │
+│  └──────────────┬──────────────────┘    │
 └─────────────────┼───────────────────────┘
                   │
                   │ Replication
